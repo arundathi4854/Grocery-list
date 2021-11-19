@@ -1,0 +1,86 @@
+{
+    "Grocery":[
+    {
+        "Serialno" : "1",
+        "Name" :"Potato",
+        "Quantity" :"1",
+        "Unit":"kg",
+        "Department" :"Vegetable",
+        "Notes" : "for 2 weeks"
+      
+    },
+    {
+        "Serialno" : "2",
+        "Name" :"Rice",
+        "Quantity" :"10",
+        "Unit" :"kg",
+        "Department" :"RICE",
+        "Notes" :"Enough for a month" 
+    },
+    {
+        
+        "Serialno" : "3",
+        "Name" :"Tomato",
+        "Quantity" :"2",
+        "Unit ":"kg",
+        "Department" :"Vegetables",
+        "Notes" :"For 2 weeks"
+    },
+    {
+        "Serialno" : "4",
+        "Name" :"Onion",
+        "Quantity" :"2",
+        "Unit" :"kg",
+        "Department" :"Vegetable",
+        "Notes" :"For 2 weeks"
+    },
+    {
+        "Serialno" : "5",
+        "Name" :"Toor dal",
+        "Quantity" :"2",
+        "Unit" :"Kg",
+        "Department" :"Pulses",
+        "Notes" :"for 1 month"
+    },
+    {
+        "Serialno" : "6",
+        "Name" :"Chana",
+        "Quantity" :"2",
+        "Unit" :"Kg",
+        "Department" :"Pulses",
+        "Notes" :"For 1 month "
+    },
+    {
+        "Serialno" : "7",
+        "Name" :"Green Gram",
+        "Quantity" :"2",
+        "Unit" :"kg",
+        "Department" :"Pulses",
+        "Notes" :"For 1 month"
+    },
+    {
+        "Serialno" : "8",
+        "Name" :"Dry red chilli",
+        "Quantity" :"2",
+        "Unit" :"Kg",
+        "Department" :"Spices",
+        "Notes" :"Usually stock every 3 month"
+    },
+    {
+        "Serialno" : "9",
+        "Name" :"tamarind",
+        "Quantity" :"1",
+        "Unit" :"Kg",
+        "Department" :"Spices",
+        "Notes" :"For 1 month"
+    },
+    {
+        "Serialno" : "10",
+        "Name" :"Salt",
+        "Quantity" :"2",
+        "Unit" :"kg",
+        "Department" :"Spices",
+        "Notes" :"For 1 month"
+    }
+ ]
+} 
