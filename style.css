@@ -14,30 +14,31 @@ tr:hover{
     background-color:red;
     }
 #button1{
-        margin-left: 35%;
+        margin-left: 5px;
         background-color: black ;
         color: white;
         font-family: 'Times New Roman', Times, serif;
         font-weight: bold;
         font-size: x-large;
-        padding: 10px;
+        padding: 5px;
         border: black;
-        margin-bottom: 20px;
-}
+    }
 #button1:hover{
         background-color: rgb(180, 108, 25);
-}
+    }
 th,td {
   padding: 12px;
   background-color: rgba(61, 60, 60, 0.2);
   color: #fff;
   border: wheat 1px solid;
-}
+    }
 th{
     text-align: left;
   }
 #Gtable{
    background-color:black;
+   margin-top: 10em;
+   
    margin: 8%;
    width: 80%;
 }
@@ -45,4 +46,7 @@ th{
     font-family:cursive;
     color: rgb(240, 112, 112);
    background: rgb(16, 17, 17);
+}
+.container{
+    margin-top: 5em;
 }
